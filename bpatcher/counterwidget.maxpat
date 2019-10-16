@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 498.0, 279.0, 319.0, 293.0 ],
+		"rect" : [ 366.0, 294.0, 319.0, 293.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -80,14 +80,14 @@
 , 			{
 				"box" : 				{
 					"fontname" : "Menlo Regular",
-					"fontsize" : 12.0,
+					"fontsize" : 14.0,
 					"id" : "obj-14",
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 60.0, 225.0, 55.0, 20.0 ],
+					"patching_rect" : [ 60.0, 225.0, 63.0, 23.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 19.0, 0.0, 45.0, 20.0 ],
+					"presentation_rect" : [ 26.0, 1.0, 51.0, 23.0 ],
 					"text" : "01:11"
 				}
 
@@ -150,17 +150,17 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.156862745098039, 0.156862745098039, 0.196078431372549, 0.0 ],
+					"bgcolor" : [ 0.2, 0.2, 0.2, 1.0 ],
 					"id" : "obj-1",
 					"maxclass" : "button",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"outlinecolor" : [ 0.309803921568627, 0.309803921568627, 0.309803921568627, 1.0 ],
+					"outlinecolor" : [ 0.349019607843137, 0.349019607843137, 0.349019607843137, 1.0 ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 60.0, 30.0, 20.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 0.0, 20.0, 20.0 ]
+					"presentation_rect" : [ 0.0, 0.0, 24.0, 24.0 ]
 				}
 
 			}

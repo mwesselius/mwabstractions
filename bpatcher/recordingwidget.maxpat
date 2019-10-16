@@ -39,16 +39,16 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
-					"fontsize" : 12.0,
+					"fontsize" : 14.0,
 					"id" : "obj-3",
 					"maxclass" : "textbutton",
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 30.0, 30.0, 35.0, 22.0 ],
+					"patching_rect" : [ 30.0, 30.0, 35.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 2.0, 2.0, 35.0, 22.0 ],
+					"presentation_rect" : [ 0.0, 0.0, 38.75, 24.0 ],
 					"style" : "default",
 					"text" : "start"
 				}
@@ -173,7 +173,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.0, 360.0, 20.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 0.0, 43.0, 20.0, 20.0 ],
+					"presentation_rect" : [ -1.0, 43.0, 20.0, 20.0 ],
 					"text" : "R"
 				}
 
@@ -188,7 +188,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 270.0, 345.0, 18.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 1.0, 28.0, 18.0, 20.0 ],
+					"presentation_rect" : [ 0.0, 27.0, 18.0, 20.0 ],
 					"text" : "L"
 				}
 
@@ -237,7 +237,6 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.2, 0.2, 0.2, 1.0 ],
 					"id" : "obj-15",
 					"maxclass" : "led",
 					"numinlets" : 1,
@@ -248,7 +247,7 @@
 					"parameter_enable" : 0,
 					"patching_rect" : [ 150.0, 300.0, 20.0, 20.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 86.0, 2.0, 22.0, 22.0 ]
+					"presentation_rect" : [ 87.25, 0.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -261,7 +260,7 @@
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 300.0, 360.0, 80.0, 13.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 18.0, 47.0, 90.0, 13.0 ]
+					"presentation_rect" : [ 17.0, 45.0, 94.0, 14.0 ]
 				}
 
 			}
@@ -274,7 +273,7 @@
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 300.0, 345.0, 80.0, 13.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 18.0, 32.0, 90.0, 13.0 ]
+					"presentation_rect" : [ 17.0, 29.0, 94.0, 14.0 ]
 				}
 
 			}
@@ -294,16 +293,16 @@
 			}
 , 			{
 				"box" : 				{
-					"fontsize" : 12.0,
+					"fontsize" : 14.0,
 					"id" : "obj-6",
 					"maxclass" : "textbutton",
 					"numinlets" : 1,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 195.0, 30.0, 35.0, 22.0 ],
+					"patching_rect" : [ 195.0, 30.0, 35.0, 24.0 ],
 					"presentation" : 1,
-					"presentation_rect" : [ 46.0, 2.0, 35.0, 22.0 ],
+					"presentation_rect" : [ 43.375, 0.0, 39.25, 24.0 ],
 					"style" : "default",
 					"text" : "stop"
 				}
