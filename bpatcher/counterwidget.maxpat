@@ -88,7 +88,7 @@
 					"patching_rect" : [ 60.0, 225.0, 63.0, 23.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 26.0, 1.0, 51.0, 23.0 ],
-					"text" : "01:11"
+					"text" : "00:00"
 				}
 
 			}
@@ -150,7 +150,6 @@
 			}
 , 			{
 				"box" : 				{
-					"bgcolor" : [ 0.2, 0.2, 0.2, 1.0 ],
 					"id" : "obj-1",
 					"maxclass" : "button",
 					"numinlets" : 1,
